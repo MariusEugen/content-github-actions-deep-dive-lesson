@@ -1,6 +1,6 @@
 # User Guide
 
-__New feture alert!__
+__New feature alert!__
 
 ## Install
 
